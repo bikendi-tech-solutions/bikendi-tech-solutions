@@ -1,5 +1,12 @@
-### Hi there 👋
-
+# About Us 
+### We @ **Bikendi Tech Solutions** specialize in web and mobile technologies. Being one of the best IT Firm, we have been trusted and able to push good works to the cyberspace, involve in series of projects and many more!
+We are experts in:
+- Wordpress plugin development
+- Web design/development
+- Web App development
+- Debugging and upgrades
+- Frontend desgins
+- And Many More!
 <!--
 **bikendi-tech-solutions/bikendi-tech-solutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
